@@ -21,6 +21,6 @@ box-shadow: 3px 3px 3px 3px red;
 
 Guru introduced me to myself and showed me the right way. Thanks for making me who I am. Wish you a happy Guru Purnima Day!
 
-<h1 id="i1"> Special Thanks To Vimall Daga Sir !!!!!!!!!!!!!!</h1>
+<h1 id="i1"> Special Thanks To Vimal Daga Sir and preeti Chandak Ma'am !!!!!!!!!!!!!!</h1>
 </body>
 </html>
